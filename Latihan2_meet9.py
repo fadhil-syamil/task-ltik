@@ -3,12 +3,12 @@
 # 1A - Rekayasa Perangkat Lunak
 
 print("="*50)
-print("     SISTEM LOGIN LAB KOMPUTER")
-print("     SMAN 2 HARAPAN")
+print("     SISTEM LOGIN SEDERHANA")
+print("     MA AL-HIKMAH 2 CIREBON")
 print("="*50)
 
-username_benar = "Daspro2023"
-password_benar = "Latihan"
+username_benar = "alhikmahcirebon"
+password_benar = "elhiq12345"
 
 def tampilkan_header():
     print("\n" + "-"*50)
